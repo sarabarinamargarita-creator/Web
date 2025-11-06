@@ -1,0 +1,23 @@
+margarita-fomicheva-website/
+├── README.md
+├── documentation/
+│   ├── technical-decisions.md
+│   ├── responsive-testing.md
+│   └── performance-optimization.md
+├── src/
+│   ├── css/
+│   │   ├── custom-styles.css
+│   │   └── responsive.css
+│   ├── js/
+│   │   └── custom-scripts.js
+│   └── components/
+│       ├── modal-window.html
+│       └── contact-form.html
+├── screenshots/
+│   ├── before-mobile.jpg
+│   ├── after-mobile.jpg
+│   ├── before-desktop.jpg
+│   └── after-desktop.jpg
+└── wp-content/
+    └── themes/
+        └── custom-theme/
